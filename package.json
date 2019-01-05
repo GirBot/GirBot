@@ -1,0 +1,17 @@
+{
+  "name": "girbot.github.io",
+  "version": "1.0.0",
+  "description": "GirBot website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "repository": "https://github.com/GirBot/girbot.github.io",
+  "author": "GirBot (https://girbot.github.io)",
+  "license": "GNU-3.0",
+  "private": true,
+  "devDependencies": {
+    "vuepress": "^0.14.8"
+  }
+}
